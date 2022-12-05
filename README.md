@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm Michael. Just starting to learn coding with FreeCodeCamp. 
+Feeling a little overwhelemed!
 
+
+
+what's next?
 <!--
 **robotbear/robotbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
