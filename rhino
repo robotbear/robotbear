@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+	<header id="header">
+        <div id="navbar">
+           <a id="about-button" href="#about-page">About</a> 
+            <a id="projects-button" href="#projects-page">Projects</a>
+            <a id="contact-button" href="#contact-page">Contact</a>
+        </div>
+      </header>
+    <section class="page" id="about-page">
+      <img> 
+      <!-- Photo by Matthew Ball on Unsplash 
+      Photo by <a href="https://unsplash.com/@tex450?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matthew Ball</a> on <a href="https://unsplash.com/s/photos/space-earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  -->
+    <div id="title-div"><h1>Michael Simpson</h1></div>
+    </section> 
+
+    <section class="page" id="projects-page">
+        <div id="things-div"><h1>Things I made</h1></div>
+    </section> 
+
+    <section class="page" id="contact-page">
+        <div id="contact-div"><h1>Get in touch</h1></div>
+     </section> 
+    <footer>
+        By Michael Simpson 2022
+    </footer>
+  </body>
+</html>
