@@ -16,11 +16,12 @@
         </div>
       </header>
     <section class="page" id="about-page">
-      <img> 
+  
       <!-- Photo by Matthew Ball on Unsplash 
       Photo by <a href="https://unsplash.com/@tex450?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matthew Ball</a> on <a href="https://unsplash.com/s/photos/space-earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   -->
-    <div id="title-div"><h1>Michael Simpson</h1></div>
+    <div id="title-div"><h1>Michael Simpson</h1><h2>Learning how to code</h2></div>
+
     </section> 
 
     <section class="page" id="projects-page">
