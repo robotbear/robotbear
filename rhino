@@ -17,22 +17,18 @@
       </header>
     <section class="page" id="about-page">
   
-      <!-- Photo by Matthew Ball on Unsplash 
-      Photo by <a href="https://unsplash.com/@tex450?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Matthew Ball</a> on <a href="https://unsplash.com/s/photos/space-earth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  -->
-    <div id="title-div"><h1>Michael Simpson</h1><h2>Learning how to code</h2></div>
+      <!-- Image by <a href="https://pixabay.com/users/yuri_b-2216431/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1569133">Yuri</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1569133">Pixabay</a> -->
+    <div id="title-div" class="page-div"><h1>Michael Simpson</h1><h2> < coding student ></h2></div>
 
     </section> 
 
     <section class="page" id="projects-page">
-        <div id="things-div"><h1>Things I made</h1></div>
+        <div id="things-div" class="page-div"><h1>Things I made</h1></div>
     </section> 
 
     <section class="page" id="contact-page">
-        <div id="contact-div"><h1>Get in touch</h1></div>
+        <div id="contact-div" class="page-div"><h1>Get in touch</h1></div>
      </section> 
-    <footer>
-        By Michael Simpson 2022
-    </footer>
+     <span id="photo-credit">Image by <a href="https://pixabay.com/users/yuri_b-2216431/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1569133">Yuri</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1569133">Pixabay</a></span>
   </body>
 </html>
